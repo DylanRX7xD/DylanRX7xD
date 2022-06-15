@@ -3,7 +3,7 @@
 - 👋 Ola, eu sou Dylan Rojas
 - 👀 Estou interesado em Programação,criação de paginas web,
 - :) Estou estudando Java Script, HTML e CSS
-- 💞️ No meu tempo livre estudo, jogo,e faço cursos
+- 💞️ No meu tempo livre estudo, jogo,e trabalho
 - 📫 Pode me encontrar (dylan.cano@escola.pr.gov.br)
 
 <!---
